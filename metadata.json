@@ -1,0 +1,5 @@
+{
+  "name": "PrecificaSmart AI",
+  "description": "Um aplicativo inteligente de precificação de produtos com análise de margem e geração de conteúdo de marketing via Gemini AI.",
+  "requestFramePermissions": []
+}
